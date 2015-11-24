@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test DB data to XML-->
+<noSQL>
+  <keytype>string</keytype>
+  <payloadtype>string</payloadtype>
+  <key>1</key>
+  <element>
+    <name>name after editing</name>
+    <descr>descr after editing</descr>
+    <timestamp>2015-11-14T14:00:31.3238116-05:00</timestamp>
+    <children>
+      <key>1</key>
+      <key>2</key>
+    </children>
+    <payload>
+      <item>payload 1</item>
+      <item>edit payload 2</item>
+    </payload>
+  </element>
+  <key>enum_two</key>
+  <element>
+    <name>element4</name>
+    <descr>test element for adding key-value pair to databse with value as list of string</descr>
+    <timestamp>2015-11-14T14:00:31.3028844-05:00</timestamp>
+    <children>
+      <key>1</key>
+      <key>two</key>
+    </children>
+    <payload>
+      <item>test elemet4's payload</item>
+    </payload>
+  </element>
+</noSQL>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test DB data to XML-->
+<noSQL>
+  <keytype>integer</keytype>
+  <payloadtype>string</payloadtype>
+  <key>2</key>
+  <element>
+    <name>element3</name>
+    <descr>test element for adding key-value pair to databse with value as string</descr>
+    <timestamp>2015-11-12T11:20:50.4010581-05:00</timestamp>
+    <children>
+      <key>1</key>
+      <key>2</key>
+    </children>
+    <payload>test elemet3's payload</payload>
+  </element>
+  <key>1</key>
+  <element>
+    <name>element1</name>
+    <descr>test element for editing key-value pair to databse with value as string</descr>
+    <timestamp>2015-11-12T11:20:50.5038557-05:00</timestamp>
+    <children>
+      <key>1</key>
+      <key>2</key>
+    </children>
+    <payload>test element1's payload</payload>
+  </element>
+</noSQL>

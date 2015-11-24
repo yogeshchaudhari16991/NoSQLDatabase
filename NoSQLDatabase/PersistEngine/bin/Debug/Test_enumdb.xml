@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test DB data to XML-->
+<noSQL>
+  <keytype>string</keytype>
+  <payloadtype>string</payloadtype>
+  <key>0</key>
+  <element>
+    <name>element</name>
+    <descr>test element</descr>
+    <timestamp>2015-11-12T16:23:49.9953606-05:00</timestamp>
+    <children>
+      <key>child1</key>
+      <key>child2</key>
+    </children>
+    <payload>
+      <item>payload 1</item>
+      <item>payload 2</item>
+    </payload>
+  </element>
+  <key>1</key>
+  <element>
+    <name>element</name>
+    <descr>test element</descr>
+    <timestamp>2015-11-12T16:23:49.9953606-05:00</timestamp>
+    <children>
+      <key>child1</key>
+      <key>child2</key>
+    </children>
+    <payload>
+      <item>payload 1</item>
+      <item>payload 2</item>
+    </payload>
+  </element>
+  <key>2</key>
+  <element>
+    <name>element</name>
+    <descr>test element</descr>
+    <timestamp>2015-11-12T16:23:49.9953606-05:00</timestamp>
+    <children>
+      <key>child1</key>
+      <key>child2</key>
+    </children>
+    <payload>
+      <item>payload 1</item>
+      <item>payload 2</item>
+    </payload>
+  </element>
+</noSQL>
