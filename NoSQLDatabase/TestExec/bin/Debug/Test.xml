@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test DB data to XML-->
+<noSQL>
+  <keytype>integer</keytype>
+  <payloadtype>string</payloadtype>
+  <key>1</key>
+  <element>
+    <name>name after editing</name>
+    <descr>descr after editing</descr>
+    <timestamp>2015-10-04T13:27:48.6601631-04:00</timestamp>
+    <payload>payload after editing</payload>
+  </element>
+  <key>2</key>
+  <element>
+    <name>element3</name>
+    <descr>test element for adding key-value pair to databse with value as string</descr>
+    <timestamp>2015-10-04T13:27:48.6288981-04:00</timestamp>
+    <payload>test elemet3's payload</payload>
+  </element>
+</noSQL>

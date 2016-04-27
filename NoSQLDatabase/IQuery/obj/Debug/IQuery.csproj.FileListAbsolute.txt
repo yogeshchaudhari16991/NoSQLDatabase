@@ -1,0 +1,5 @@
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

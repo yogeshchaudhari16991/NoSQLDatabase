@@ -1,0 +1,16 @@
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBFactory.exe.config
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBFactory.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBFactory.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\ConsoleApplication2.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBEngine.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\ConsoleApplication2.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBEngine.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\obj\Debug\DBFactory.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\obj\Debug\DBFactory.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBElement.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBExtensions.exe
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBElement.pdb
+C:\Yogesh\SU\Fall15\SMA\project2\Project2Starter\DBFactory\bin\Debug\DBExtensions.pdb
